@@ -1,0 +1,26 @@
+[
+    {
+        "numero": "00001",
+        "fecha": "20/01/2026",
+        "asegurado": "Juan Perez",
+        "estado": "abierto"
+    },
+    {
+        "numero": "00002",
+        "fecha": "20/01/2026",
+        "asegurado": "Jose Sanchez",
+        "estado": "abierto"
+    },
+    {
+        "numero": "00003",
+        "fecha": "20/01/2026",
+        "asegurado": "Luis Rodriguez",
+        "estado": "abierto"
+    },
+    {
+        "numero": "00004",
+        "fecha": "20/01/2026",
+        "asegurado": "Alberto Martinez",
+        "estado": "abierto"
+    }
+]
