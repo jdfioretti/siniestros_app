@@ -1,14 +1,21 @@
 # Python cache
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+
 
 # Entornos virtuales
+.venv/
 venv/
-.env/
+env/
 
 # Archivos de sistema
 .DS_Store
 Thumbs.db
+
+# Configuraciones del editor
+.vscode/
 
 # Datos locales
 data/siniestros.json
