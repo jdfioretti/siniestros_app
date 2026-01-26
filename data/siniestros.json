@@ -22,5 +22,11 @@
         "fecha": "20/01/2026",
         "asegurado": "Alberto Martinez",
         "estado": "abierto"
+    },
+    {
+        "numero": "00005",
+        "fecha": "21/01/2026",
+        "asegurado": "Lucas Fioretti",
+        "estado": "abierto"
     }
 ]
